@@ -1,0 +1,9 @@
+Welcome to NRAMP Polytechnic Nitte Computer Science Department
+Courses available here is:
+* Python programming
+* Java programming
+* Operating System
+* Data Structures
+* Software Engineering 
+
+Thank you with reguards
